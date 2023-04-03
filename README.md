@@ -11,7 +11,5 @@ Hi there <span class="wave">👋</span> I'm Ashmika !
 
 <img src="https://github.com/FnuAshmika/FnuAshmika/blob/main/coder.gif" alt="coder" style="width: 400px; height: 280px;">
 
-
-
-Programming Langauges:
+Programming Langauges: ![Python](https://img.shields.io/badge/Python-3.9.7-blue)
 
