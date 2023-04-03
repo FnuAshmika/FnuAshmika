@@ -1,6 +1,36 @@
 ![alt text](https://github.com/FnuAshmika/FnuAshmika/blob/main/Fnu%20Ashmika%20(1).png)
 
 ## Hi there :wave:, I'm Ashmika !
+<div>
+  <h2>Hi there! <span class="wave">👋</span></h2>
+  <p>Welcome to my profile.</p>
+</div>
+
+<style>
+.wave {
+  animation-name: wave-animation; /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s; /* Change to speed up or slow down */
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0.0deg) }
+  10% { transform: rotate(14.0deg) }
+  20% { transform: rotate(-8.0deg) }
+  30% { transform: rotate(14.0deg) }
+  40% { transform: rotate(-4.0deg) }
+  50% { transform: rotate(10.0deg) }
+  60% { transform: rotate( 0.0deg) } /* Must always end at 0 deg */
+  /* The following are for the <100% cases */
+  70% { transform: rotate(-6.0deg) }
+  80% { transform: rotate( 2.0deg) }
+  90% { transform: rotate(-4.0deg) }
+  100% { transform: rotate( 0.0deg) }
+}
+</style>
+
 
 ## About Me:-
   
