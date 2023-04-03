@@ -1,6 +1,6 @@
 ![alt text](https://github.com/FnuAshmika/FnuAshmika/blob/main/Fnu%20Ashmika%20(1).png)
 
-Hi there 👋, I'm Ashmika !
+Hi there <span class="wave">👋</span>, I'm Ashmika !
 
 <!--
 **FnuAshmika/FnuAshmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
