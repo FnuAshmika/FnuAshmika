@@ -1,39 +1,12 @@
 ![alt text](https://github.com/FnuAshmika/FnuAshmika/blob/main/Fnu%20Ashmika%20(1).png)
 
 Hi there <span class="wave">👋</span> I'm Ashmika !
-.wave {
-  animation-name: wave-animation;  /* Name of @keyframes element below */
   animation-duration: .75s;  /* Wave speed */
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  animation-play-state: paused;
-  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
-  display: inline-block;
-  font-size: 8rem;
-}
+  
+- 👩‍🎓 I recently graduated from Coding Temple Bootcamp (Software Engineering).
+- 📚 I've completed my Grad in Computer Science(Banasthali University) and Post-Grad in Banking and Finance(Manipal University).
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashmika-a351a627/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I learned how to fly a plane after high school. It was an incredible experience and one that I'll never forget.
+- - 👩🏻‍💻 I'm on the lookout for software development opportunities. Whether it's coding, debugging, or designing user interfaces, I'm passionate about all aspects of software development and I'm eager to put my skills to use in a dynamic and collaborative work environment. If you're looking for a driven and creative software developer, look no further!
 
-.wave:hover {
-  animation-play-state: running; /* Play animation on mouse hover */
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0deg ) }
-  25% { transform: rotate( -10deg ) }
-  75% { transform: rotate( 12deg ) }
-  100% { transform: rotate( 0deg ) }
-}
-
-<!--
-**FnuAshmika/FnuAshmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
