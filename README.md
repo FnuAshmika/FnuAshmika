@@ -1,6 +1,6 @@
 ![alt text](https://github.com/FnuAshmika/FnuAshmika/blob/main/Fnu%20Ashmika%20(1).png)
 
-## Hi there <span class="wave">👋</span> I'm Ashmika !
+## Hi there :wave:, I'm Ashmika !
 
 ## About Me:-
   
