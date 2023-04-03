@@ -1,7 +1,6 @@
 ![alt text](https://github.com/FnuAshmika/FnuAshmika/blob/main/Fnu%20Ashmika%20(1).png)
 
 Hi there <span class="wave">👋</span> I'm Ashmika !
-  animation-duration: .75s;  /* Wave speed */
   
 - 👩‍🎓 I recently graduated from Coding Temple Bootcamp (Software Engineering).
 - 📚 I've completed my Grad in Computer Science(Banasthali University) and Post-Grad in Banking and Finance(Manipal University).
