@@ -10,7 +10,8 @@ Hi there <span class="wave">👋</span> I'm Ashmika !
 - 👩🏻‍💻 I'm on the lookout for software development opportunities. Whether it's coding, debugging, or designing user interfaces, I'm passionate about all aspects of software development and I'm eager to put my skills to use in a dynamic and collaborative work environment. If you're looking for a driven and creative software developer, look no further!
 
 <img align='right' src="https://github.com/FnuAshmika/FnuAshmika/blob/main/coder.gif" alt="coder" style="width: 400px; height: 280px;">
-### Worked On:
+
+#### Worked On:
 
 Programming Langauges: 
 
