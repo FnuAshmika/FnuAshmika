@@ -11,5 +11,6 @@ Hi there <span class="wave">👋</span> I'm Ashmika !
 
 <img src="https://github.com/FnuAshmika/FnuAshmika/blob/main/coder.gif" alt="coder" style="width: 400px; height: 280px;">
 
-Programming Langauges: ![Python](https://img.shields.io/badge/Python-3.9.7-blue)
+Programming Langauges: 
+![Python](https://img.shields.io/badge/Python-3.9.7-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Java](https://img.shields.io/badge/Java-11-red) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![NoSQL](https://img.shields.io/badge/NoSQL-MongoDB-green) ![SQL](https://img.shields.io/badge/SQL-MySQL-lightgrey)
 
