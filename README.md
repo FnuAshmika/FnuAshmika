@@ -4,8 +4,8 @@
 
 ## About Me:-
   
-- 👩‍🎓 I recently graduated from Coding Temple Bootcamp (Software Engineering).
-- 📚 I've completed my Grad in Computer Science(Banasthali University) and Post-Grad in Banking and Finance(Manipal University).
+- 👩‍🎓 I've completed my Grad in Computer Science(Banasthali University), Post-Grad in Banking and Finance(Manipal University) and Full Stack Software Engineering program from Coding Temple.
+- 🛠️ I'm currently working on adding some sick new features to my web-app project, BingeWatch.
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashmika-a351a627/)
 - 😄 Pronouns: She/Her
 -  ⚡ Fun fact: I learned how to fly a plane after high school. It was an incredible experience and one that I'll never forget.
