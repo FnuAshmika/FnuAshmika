@@ -5,7 +5,7 @@
 ## About Me:-
   
 - 👩‍🎓 I've completed my Grad in Computer Science(Banasthali University), Post-Grad in Banking and Finance(Manipal University) and Full Stack Software Engineering program from Coding Temple.
-- 🛠️ I'm currently working on adding some sick new features to my web-app project, BingeWatch.
+- 🛠️ Currently fine-tuning my mastery of data structures through Hackerrank and LeetCode challenges and dabbling in freelance projects. Open to new and exciting opportunities! 
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashmika-a351a627/)
 - 😄 Pronouns: She/Her
 -  ⚡ Fun fact: I learned how to fly a plane after high school. It was an incredible experience and one that I'll never forget.
@@ -31,7 +31,8 @@ Databases:
 
 Tools/DevOps: 
 
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Glitch Badge](https://img.shields.io/badge/Glitch-2800FF?style=for-the-badge&logo=glitch&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![MS Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=Bitbucket&logoColor=FFF&style=for-the-badge)](https://bitbucket.org/)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Glitch Badge](https://img.shields.io/badge/Glitch-2800FF?style=for-the-badge&logo=glitch&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![MS Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-0052CC?logo=Bitbucket&logoColor=FFF&style=for-the-badge)](https://bitbucket.org/) [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=FFF&style=for-the-badge)](https://www.postman.com/)
+
 
 
 
