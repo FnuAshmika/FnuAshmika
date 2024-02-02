@@ -5,7 +5,7 @@
 ## About Me:-
   
 - 👩‍🎓 I've completed my Grad in Computer Science(Banasthali University), Post-Grad in Banking and Finance(Manipal University) and Full Stack Software Engineering program from Coding Temple.
-- 🛠️ Currently fine-tuning my mastery of data structures through Hackerrank and LeetCode challenges and dabbling in freelance projects. Open to new and exciting opportunities! 
+- 🛠️ Currently fine-tuning my mastery of data structures through Hackerrank and LeetCode challenges and dabbling in freelance projects.
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashmika-a351a627/)
 - 😄 Pronouns: She/Her
 -  ⚡ Fun fact: I learned how to fly a plane after high school. It was an incredible experience and one that I'll never forget.
