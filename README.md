@@ -1,4 +1,4 @@
-![alt text](https://github.com/FnuAshmika/FnuAshmika/blob/main/Fnu%20Ashmika%20(1).png)
+![alt text](https://github.com/FnuAshmika/FnuAshmika/blob/main/AR.png)
 
 ## Hi there! :wave: I'm Ashmika.
 
